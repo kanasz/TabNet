@@ -5,7 +5,7 @@ from pytorch_tabnet.tab_model import TabNetClassifier
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import StratifiedKFold
 
-from base_finctions import get_slovak_data
+from base_functions import get_slovak_data
 import torch
 import pandas as pd
 
